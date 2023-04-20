@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "name": "john",
+        "lat": "48.876",
+        "long": "2.421",
+        "iconUrl":"assets/images/icon1.png"
+    },
+    {
+        "id":"2",
+        "name": "alex",
+        "lat": "23.025",
+        "long": "72.600",
+         "iconUrl":"assets/images/icon2.png"
+    },
+    {
+        "id":"3",
+        "name": "bhagwati",
+        "lat": "24.596",
+        "long": "73.697",
+         "iconUrl":"assets/images/icon3.png"
+    }
+]
